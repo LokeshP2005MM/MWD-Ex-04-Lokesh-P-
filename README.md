@@ -1,7 +1,7 @@
 # Exp 4 – React Lab Exercise: Event Handling in React
 
 ## NAME : Lokesh P
-## REG NO : 23050010315
+## REG NO : 2305001015
 
 ## Aim
 To create React applications that demonstrate event handling using `onClick`, `onChange`, and `onSubmit` events to handle user interactions, update data, and perform form submissions.
